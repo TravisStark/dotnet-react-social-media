@@ -1,0 +1,15 @@
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+E:\repos\dotnet-react-social-media\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
