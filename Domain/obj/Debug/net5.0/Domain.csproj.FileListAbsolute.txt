@@ -2,7 +2,6 @@ E:\repos\dotnet-react-social-media\Reactivities\Domain\bin\Debug\net5.0\Domain.d
 E:\repos\dotnet-react-social-media\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
 E:\repos\dotnet-react-social-media\Reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
 E:\repos\dotnet-react-social-media\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
-E:\repos\dotnet-react-social-media\Reactivities\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
 E:\repos\dotnet-react-social-media\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 E:\repos\dotnet-react-social-media\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
 E:\repos\dotnet-react-social-media\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
@@ -10,3 +9,4 @@ E:\repos\dotnet-react-social-media\Reactivities\Domain\obj\Debug\net5.0\Domain.c
 E:\repos\dotnet-react-social-media\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
 E:\repos\dotnet-react-social-media\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
 E:\repos\dotnet-react-social-media\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
+E:\repos\dotnet-react-social-media\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
