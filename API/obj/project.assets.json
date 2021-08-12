@@ -1309,27 +1309,24 @@
   },
   "packageFolders": {
     "C:\\Users\\stark\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repos\\dotnet-react-social-media\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "E:\\repos\\dotnet-react-social-media\\Reactivities\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\repos\\dotnet-react-social-media\\Reactivities\\API\\API.csproj",
+      "projectPath": "E:\\repos\\dotnet-react-social-media\\Reactivities\\api\\API.csproj",
       "packagesPath": "C:\\Users\\stark\\.nuget\\packages\\",
-      "outputPath": "E:\\repos\\dotnet-react-social-media\\Reactivities\\API\\obj\\",
+      "outputPath": "E:\\repos\\dotnet-react-social-media\\Reactivities\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\stark\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -1387,7 +1384,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
